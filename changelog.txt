@@ -1,0 +1,14 @@
+"Version: 1.1.0; Updated 10/28/2020 by CheeezAir (Richard)\n" +
+            "Style changes from using ifs to switch-case; Made endMessage(...) for final message in SRC; \n" +
+            "Added more codes \n" +
+            "Added help and changelog; added `REDACTED` for rickrolling \n" +
+            "Added reset, destroy, and triggerspam for admin perms; \n"
+"Version: 1.1.1; Updated 11/4/2020 by CheeezAir (Richard)\n" +
+            "Increased efficiency using HashTables; \n" +
+            "removed rickroll code \n" +
+            "Added back input\n"
+"Version: 1.2; Updated 12/17/2020 by CheeezAir (Richard)\n" +
+            "Made it so that the bot doesn't break if you dm it without saying verify command \n" +
+            "Updated back input to only function during the email step\n"
+"Version: 1.2.1; Updated 1/6/2021 by CheeezAir (Richard)\n" +
+            "Made help and changelog look pretty with Embeded messages"
